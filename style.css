@@ -1,0 +1,18 @@
+body {
+    box-sizing: border-box;
+    display: flex;
+}
+div.header {
+    padding: 10px;
+    width: 25vw;
+    text-align: center;
+    background-image: linear-gradient(#caf0f8, #fff);
+}
+div.container-fluid {
+    width: 100vw;
+    height: 100vh;
+}
+
+.header i {
+    font-size: 50px;
+}
